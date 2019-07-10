@@ -1,6 +1,6 @@
-# Redux Todos Example + localStorage for persistance data store
+# Redux Todos Example + localStorage
 
-This project template was built with [Create React App](https://github.com/facebookincubator/create-react-app).
+
 
 ## Available Scripts
 
